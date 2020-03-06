@@ -1,0 +1,25 @@
+
+p{
+               color:coral;
+               font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+               text-align: right;
+               line-height: 100%;
+           }
+           #titulo-principal{
+            color:darkblue;
+            font-family:Helvetica;
+            font-size: 40px;
+            text-align: center;
+           }
+           .impares{color: darkgreen;background-color: green;
+           }
+           a {
+               color: #317815;
+               text-decoration: none;
+               background-color: rgb(156, 141, 141);
+           }
+           a:hover{
+              color: #000;
+              background-color:green ;
+
+           }
