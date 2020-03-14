@@ -1,7 +1,7 @@
 
 p{
                color:coral;
-               font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+               font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
                text-align: right;
                line-height: 100%;
            }
